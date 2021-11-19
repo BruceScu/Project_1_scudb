@@ -8,4 +8,4 @@
 * **NAME:侯俊臣**
 
 ## Desc
-the first projet is in the branch "first commit".
+the first projet is in the branch named "first-commit".
