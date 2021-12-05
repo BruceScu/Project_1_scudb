@@ -1,0 +1,16 @@
+/home/bruce/software/clion-2021.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/bruce/scudb
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Error at test/CMakeLists.txt:35 (find_program):
+  Could not find MEMORYCHECK_COMMAND using the following names: valgrind
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/bruce/scudb/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/home/bruce/scudb/cmake-build-debug/CMakeFiles/CMakeError.log".
